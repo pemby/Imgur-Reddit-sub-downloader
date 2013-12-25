@@ -1,12 +1,12 @@
 Imgur-Reddit-sub-downloader
 ===========================
 
-Imgur / Reddit sub downloader
+# This program will batch download photos from imgur/subs
+# and resize the photos for viewing on your monitor (if they are too small)
 
-Will prompt you for /r/sub
+# This program was written and tested in osx 10.8
+# Please remove resizing feature if you intend to use this program
+# on another platform.
 
-Will prompt for location to save photos
 
-Will Not download any dupicate photos 
 
-Will reszie all photos that are smaller than your dispay width to match your display width. 
